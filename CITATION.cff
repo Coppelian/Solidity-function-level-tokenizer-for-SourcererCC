@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Solidity test function-level tokenizer for SourcererCC."
+authors:
+- family-names: "Ma"
+  given-names: "Yinghang"
+title: "Solidity-function-level-tokenizer-for-SourcererCC"
+version: 0.0.1
+date-released: 2023-06-28
+url: "https://github.com/Coppelian/Solidity-function-level-tokenizer-for-SourcererCC"
